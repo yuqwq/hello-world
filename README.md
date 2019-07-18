@@ -1,2 +1,6 @@
-# hello-world
-one thousand meters start from now on
+#include<iostream>
+  using namespace std;
+  int main()
+  {
+    cout<<"Hello world"<<endl;
+  }
